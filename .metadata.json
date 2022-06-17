@@ -1,0 +1,10 @@
+[
+  {
+    "package": "faux",
+    "oncran": true
+  },
+  {
+    "package": "webmorphR",
+    "oncran": true
+  }
+]
