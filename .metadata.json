@@ -1,9 +1,0 @@
-[
-  {
-    "package": "faux"
-  },
-  {
-    "package": "webmorphR",
-    "oncran": true
-  }
-]
