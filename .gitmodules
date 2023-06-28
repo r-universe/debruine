@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "faux"]
 	path = faux
 	url = https://github.com/debruine/faux
-	shallow = true
-	registered = true
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/debruine/glossary
-	shallow = true
-	registered = true
 [submodule "webmorphR"]
 	path = webmorphR
 	url = https://github.com/debruine/webmorphr
-	shallow = true
-	registered = true
