@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "faux"]
+	path = faux
+	url = https://github.com/debruine/faux
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/debruine/glossary
