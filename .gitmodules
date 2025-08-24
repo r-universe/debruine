@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "faux"]
 	path = faux
-	url = https://github.com/debruine/faux
+	url = https://github.com/cran/faux
 [submodule "glossary"]
 	path = glossary
 	url = https://github.com/debruine/glossary
